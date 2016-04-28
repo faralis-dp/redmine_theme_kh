@@ -283,27 +283,27 @@ tr.priority-high3 a {
 }
 
 tr.odd.priority-lowest, table.list tbody tr.odd.priority-lowest:hover {
-  color: #559
+  color: #555
 }
 
 tr.odd.priority-lowest {
-  background: #eaf7ff
+  background: #fff7ea
 }
 
 tr.even.priority-lowest, table.list tbody tr.even.priority-lowest:hover {
-  color: #559
+  color: #555
 }
 
 tr.odd.priority-lowest td, tr.even.priority-lowest td {
-  border-color: #add7f3
+  border-color: #ffffee
 }
 
 tr.even.priority-lowest {
-  background: #f2faff
+  background: #fffaf2
 }
 
 tr.priority-lowest a {
-  color: #559
+  color: #555
 }
 
 #watchers a.delete {
